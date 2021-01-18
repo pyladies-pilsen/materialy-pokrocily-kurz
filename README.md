@@ -1,8 +1,8 @@
 # PyLadies kurz pokročilých Plzeň
 
-Kurz pokročilých navazuje na začátečnický kurz PyLadies není ovšem určen pouze pro absolventky/y, stačí umět základy Python mít chuť se učit dál. V případě zájmu nás kontaktujte https://pyladies.cz/plzen/ nebo na FB https://www.facebook.com/pyladies.plzen.
+Kurz pokročilých navazuje na začátečnický kurz PyLadies není ovšem určen pouze pro absolventky/y, stačí umět základy Pythonu a mít chuť se učit dál. V případě zájmu nás kontaktujte přes https://pyladies.cz/plzen/ nebo na FB https://www.facebook.com/pyladies.plzen.
 
-V tomto repozitáři budeme postupně shromažďovat materiály z jednotlivých setkání, níže najdete také seznam možných témat, plánovaných a proběhlých přednášek v prvním experimentálním běhu na jaře 2021.
+V tomto repozitáři budeme postupně shromažďovat materiály z jednotlivých setkání, níže najdete seznam možných témat a také plánovaných a proběhlých přednášek v prvním experimentálním běhu na jaře 2021.
 
 ## Navrhovaná témata:
 * GIT
