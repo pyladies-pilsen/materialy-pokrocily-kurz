@@ -1,0 +1,30 @@
+Integrated Development Enviroments
+----------------------------------
+
+PyCharm (https://www.jetbrains.com/pycharm/)
+	pluginy:  .ignore, GitToolBox, CMD Support, 
+			  CodeGlance, Grep Console, HighlightBracketPair, Rainbow Brackets
+	vychytávky: Select Opened File
+				Refactoring
+				Full text hledani v celém projektu Edit -> Find -> Find in Files ...
+				Zobrazení parametrů funkce Ctrl-P
+        Nápověda jména proměnné, funkce, třídy, modulu atd.: Ctrl + [Space]
+				Debug console
+				Linter
+				
+Visual Studio Code https://code.visualstudio.com/, https://vscodium.com/
+        pluginy: Python, Rainbow Brackets
+        pro otevírání projektů použijte File -> Open Folder ...
+
+Spyder https://www.spyder-ide.org/
+				
+				
+Ostatní:
+     Windows Terminal + Clink (https://mridgers.github.io/clink/), 
+		 WLS (Windows Subsystem for Linux),
+     Fish (pouze Linux, https://fishshell.com/)
+
+Vedlejší editor (pro rychlé úpravy čehokoliv, kdekoliv)
+		 Notepad++ (https://notepad-plus-plus.org/)
+     PsPad (http://www.pspad.com/)
+     Vim/gVim (https://www.vim.org/download.php)
