@@ -28,12 +28,11 @@ Pro inspiraci připojujeme odkaz na Ostravský kurz pokročilých https://naucse
 
 Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00* do *20:00*
 
-* 26.1.2021 - **Programátorské prostředí**: virtuální prostředí pro Python, typy na IDE, pluginy, editory a podobné vychytávky
-* 2.2.2021 - TBA
+* 2.2.2021 - Git
 * 9.2.2021 - TBA
 * 16.2.2021 - TBA
 * 23.2.2021 - TBA
 
 ## Proběhlá setkání
 
-Zatím žádná.
+* 26.1.2021 - **Programátorské prostředí**: virtuální prostředí pro Python, typy na IDE, pluginy, editory a podobné vychytávky
