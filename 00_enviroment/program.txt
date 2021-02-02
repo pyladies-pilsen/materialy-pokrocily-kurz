@@ -1,0 +1,13 @@
+18:00 # Začátek 
+18:05 - 18:30 # Úvodní povídání: představení, 
+								 dohoda na Zoom kultuře (bude nás tam řes 20, myslím, že bychom měli používat chat, reakce apod.)
+								 zapisování poznámek
+								 hlasování
+18:30 # Kontrola instalace Pythonu + anketa verzí
+18:35 - 19:00 # Představení virtuálnch prostředí (venv, pipenv, virtualenv, conda), jednoduchý návod jak používat venv
+19:00 - konec # Povídání o vývojových ptostředích:
+				TZ: PyCharm (přehled IDE, užitečná nastavení, pluginy), Terminal, Clink, "vedlejší editor", WSL
+				FV: PyCharm navigace v kódu, systémové nástroje (AutoKey, Aliasy)
+				PF: VisualStudio Code
+				VF: Spyder
+				kdokoliv další: cokoliv dalšího

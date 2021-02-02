@@ -1,0 +1,52 @@
+Nástroje pro virtuální prostředí
+================================
+Motivace:
+	- vyřešení konfliktů pro různé projekty
+	- izolace od systémového Pythonu
+	- sdílení programů i se závistlostmi
+
+venv
+----
+instalace: pro Python 3.3+ není třeba
+vytvoření: python -m venv <jméno>
+activace: <jméno>\Scripts\activate
+replikace prostředí: pip freeze > requirements.txt
+					 pip install -r requirements.txt
+
+- nevyžaduje instalaci
+
+
+virtualenv
+----------
+instalace: pip install virtualenv
+vytvoření: virtualenv <jméno>
+aktivace: <jméno>/bin/activate
+replikace prostředí: pip freeze > requirements.txt
+					 pip install -r requirements.txt
+
+
+pipenv
+------
+instalace: pip install pipenv
+instalace balíčků: pipenv install ...
+spouštění programů: pipenv run python ...
+
+- automaticky sbírá závislosti v Pipfile
+- umožňuje jednoduchou replikaci prostředí
+
+
+Anaconda
+--------
+instalace: https://www.anaconda.com/products/individual
+vytvoření: conda create -n <jméno>
+aktivace: conda activate <jméno>
+instalace balíčků: conda install <jména balíků>
+replikace prostředí: conda list --export > requirements.txt
+					 conda create -n <jméno> --file requirements.txt.
+
+- dvě verze anaconda a miniconda (https://docs.conda.io/en/latest/miniconda.html)
+- přístupné odkudkoliv
+- umožňuje naistalovat specifickou verzi pythonu
+- obsahuje i spoustu jiného software, především na kanálu conda-forge
+                                                    conda install -c conda-forge <jména balíků>
+
