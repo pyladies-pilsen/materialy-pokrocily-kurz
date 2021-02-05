@@ -1,0 +1,14 @@
+Slovníček gitovských pojmů:
+---------------------------
+
+repozitář/repository == složka s kódem hlídaná Gitem, případně samotná databáze zaznamenávající změny v kódu
+pracovní adresář/working tree == složka s kódem tak jak se zrovna vyskytuje na disku se všemi změnami
+revize/commit/commit == buď: - revize kódu, jeden commit popisuje změny oproti předchozímu, dohromady se všemi předcházejícími commity popisuje stav repozitáře
+							 - mechanismus vytváření commitu, commitování
+commitovací zpráva/commit message == krátký povinný popis změn v jednom commitu
+-/stage == seznam změn, které se přidají do commit při dalším commitování
+větev/branch == posloupnost commitů končící commitem, který označený jmeném větve
+-/merge == sloučení dvou větví do jedné
+-/remote == vzdálená kopie repozitáře
+-/pull == stažení stavu z remote a merge vzdálené větve do lokální
+-/push == nahrání stavu lokálního repozitáře na remote

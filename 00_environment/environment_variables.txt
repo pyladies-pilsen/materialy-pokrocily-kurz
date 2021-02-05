@@ -1,0 +1,55 @@
+Windows:
+--------
+Pro otevření dialogu:
+  Win + R
+a buď
+  control sysdm.cpl
+nebo
+  rundll32 sysdm.cpl,EditEnvironmentVariables
+
+Případně: pravý klik Tento počítač -> Vlastnosti -> Upřesnit nastavení systému
+  -> Upřesnit -> Proměnné prostředí
+Pro vypsaní proměnné v příkazové řádce:
+  echo %jméno proměnné%
+například pro PATH:
+  echo %PATH%
+
+Linux:
+------
+Pro vypsání proměnné v příkazové řádce:
+
+  echo $jméno proměnné
+
+například
+
+  echo $PATH
+
+Proměnné jdou nastavit pouze pro jeden process, pro všechny processy nebo
+permanentně:
+
+Pro nastavení proměnné pojmenované VAR na hodnotu 1 pro právě 
+běžící proces příkazové řádky:
+
+VAR=1
+
+Pozor bez mezer, ty by se jinak staly součástí názvu nebo hodnoty!
+Při přiřazování lze použít už extující proměnné, PATH se lze pak rozšířit takto
+
+PATH=/cesta/ke/slozce/s/programy:$PATH
+
+nebo
+
+PATH=$PATH:/cesta/ke/slozce/s/programy
+
+Hodnota se takto nastaví pouze pro právě bežící proces, pro rozšíření do
+ostatních procesů:
+
+export PATH=...
+
+Po skončení současně běžícíh procesů se pro nové procesy proměnné vrátí na
+staré hodnoty, permanentní změnu je třeba provést v konfiguraci shellu,
+například v .bash_profile:
+
+export PATH=...
+
+
