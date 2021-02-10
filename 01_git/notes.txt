@@ -1,0 +1,28 @@
+Sylabus:
+--------
+
+1. Git - základní myšlenka
+    - kniha v èeštinì o gitu zdarma ke stažení: https://knihy.nic.cz/files/edice/pro_git.pdf
+2. Instalace a nastavení Gitu:
+    - instalace https://git-scm.com/
+    - nezapomòte nastavit editor
+  Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+  Set your email address: git config --global user.email
+  Set you editor git config --global core.editor <editor path>
+3. Vytvoøení repozitáøe
+    git init
+4. Každodenní práce s Gitem: ???, git add -> git commit -> repeat
+    - commitni zmìny v již pøidaných souborech git commit -a
+    - vybìr zmìn ke commitu  git commit -p
+5. Git a IDE
+    - plugin pro PyCharm: GitToolbox
+    - plugin pro Visual Studio Code: Git Graph
+    - samostantná grafická prostøedí pro Git:
+        + v základní instalaci Gitu, pro spuštìní pøíkaz gitk --all
+        + GitHub Desktop: https://desktop.github.com/
+        + SourceTree: https://www.sourcetreeapp.com/
+6. Vìtvení: proè dìlat vìtve, git branch, merge, rebase
+    - procvièení vìtvení a práce s gitem formou hry: https://learngitbranching.js.org/
+7. Remote: clone, push, pull
+8. Git vs Github, Gitlab, BitBucket, Phacility
+9. Spolupráce a git: fork, pull request 

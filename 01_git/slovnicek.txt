@@ -1,14 +1,23 @@
 Slovníček gitovských pojmů:
 ---------------------------
 
+verzovací systém/source control, version control system = systém (program) na správu verzí, 
+													      např.: Git, Mercurial, Subversion
 repozitář/repository == složka s kódem hlídaná Gitem, případně samotná databáze zaznamenávající změny v kódu
 pracovní adresář/working tree == složka s kódem tak jak se zrovna vyskytuje na disku se všemi změnami
-revize/commit/commit == buď: - revize kódu, jeden commit popisuje změny oproti předchozímu, dohromady se všemi předcházejícími commity popisuje stav repozitáře
+revize/commit == buď: - revize kódu, jeden commit popisuje změny oproti předchozímu, dohromady se všemi předcházejícími commity popisuje stav repozitáře
 							 - mechanismus vytváření commitu, commitování
 commitovací zpráva/commit message == krátký povinný popis změn v jednom commitu
 -/stage == seznam změn, které se přidají do commit při dalším commitování
 větev/branch == posloupnost commitů končící commitem, který označený jmeném větve
+-/checkout == akce přesunutí se na větev případně přímo na některou revizi
+-/detached head == stav po checkoutu konkrétní revize podle jejího idendifikátoru,
+					v tomto stavu není možné vytvářet commit
 -/merge == sloučení dvou větví do jedné
+-/rebase == přesunutí jedné větve, tak aby vycházela z jiné
 -/remote == vzdálená kopie repozitáře
+naklonování/clone == stažení vzdálené kopie repozitáře
+-/fork == vytvoření vlastní kopie cizího vzdáleného repozitáře
 -/pull == stažení stavu z remote a merge vzdálené větve do lokální
 -/push == nahrání stavu lokálního repozitáře na remote
+-/pull request == žádost majiteli cizího repozitáře, aby si stáhnul změny z našeho repozitáře
