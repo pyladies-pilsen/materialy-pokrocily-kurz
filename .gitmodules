@@ -1,0 +1,3 @@
+[submodule "02_database/ukazky_sql"]
+	path = 02_database/ukazky_sql
+	url = https://github.com/koukalka/ukazky_sql.git
