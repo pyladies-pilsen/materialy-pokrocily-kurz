@@ -2,7 +2,13 @@
 
 Kurz pokročilých navazuje na začátečnický kurz PyLadies není ovšem určen pouze pro absolventky/y, stačí umět základy Pythonu a mít chuť se učit dál. V případě zájmu nás kontaktujte přes https://pyladies.cz/plzen/ nebo na FB https://www.facebook.com/pyladies.plzen.
 
-V tomto repozitáři budeme postupně shromažďovat materiály z jednotlivých setkání, níže najdete seznam možných témat a také plánovaných a proběhlých přednášek v prvním experimentálním běhu na jaře 2021.
+V tomto repozitáři budeme postupně shromažďovat materiály z jednotlivých setkání. Některé materiály jsme přidali jako gitovské submoduly, abyste si při klonování stáhli všechny použijte:
+
+```
+git clone --recurse-submodules https://github.com/pyladies-pilsen/materialy-pokrocily-kurz.git 
+```
+
+Níže najdete seznam možných témat a také plánovaných a proběhlých přednášek v prvním experimentálním běhu na jaře 2021.
 
 ## Navrhovaná témata:
 * GIT
