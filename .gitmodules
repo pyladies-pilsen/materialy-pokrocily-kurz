@@ -1,3 +1,6 @@
 [submodule "02_database/ukazky_sql"]
 	path = 02_database/ukazky_sql
 	url = https://github.com/koukalka/ukazky_sql.git
+[submodule "02_database/mypyladies_sqlite"]
+	path = 02_database/mypyladies_sqlite
+	url = https://github.com/Mintaka/mypyladies_sqlite.git
