@@ -34,8 +34,7 @@ Pro inspiraci připojujeme odkaz na Ostravský kurz pokročilých https://naucse
 
 Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00* do *20:00*
 
-* 23.2.2021 - SQLite
-* 2.3.2021 - TBA
+* 27.4.2021 - TBA
 
 ## Proběhlá setkání
 
@@ -43,3 +42,12 @@ Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00
 * 2.2.2021 - **Git - základy**: instalce, vytvoření repozitáře, vytváření revizí
 * 9.2.2021 - **Git - větvení**: větve, vzdálené repozitář
 * 16.2.2021 - **Databáze**: motivate, SQL
+* 23.2.2021 - **SQLite**
+* 2.3.2021 - Použití Githubu ke spoluporáci
+* 9.3.2021 - Praktické zpracování dat a využití databáze, jednoduchá vizualizace
+* 16.3.2021 - Bulk insert do **SQLlite**, návrh API, zobrazení geografických dat
+* 23.3.2021 - základy **HTML** a **CSS**
+* 30.3.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
+* 6.4.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
+* 13.4.2021 - webové formuláře a jejich zpracování Flaskem
+* 20.4.2021 - **Jupyter**, **Pandas** a vizualizace
