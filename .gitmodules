@@ -4,3 +4,6 @@
 [submodule "02_database/mypyladies_sqlite"]
 	path = 02_database/mypyladies_sqlite
 	url = https://github.com/Mintaka/mypyladies_sqlite.git
+[submodule "04_pandas/Data_PYWorking_Pilsen"]
+	path = 04_pandas/Data_PYWorking_Pilsen
+	url = https://github.com/zitkat/Data_PYWorking_Pilsen
