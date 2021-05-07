@@ -34,7 +34,7 @@ Pro inspiraci připojujeme odkaz na Ostravský kurz pokročilých https://naucse
 
 Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00* do *20:00*
 
-* 27.4.2021 - TBA
+* 11.5.2021 - **OOP**
 
 ## Proběhlá setkání
 
@@ -50,4 +50,6 @@ Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00
 * 30.3.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
 * 6.4.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
 * 13.4.2021 - webové formuláře a jejich zpracování Flaskem
-* 20.4.2021 - **Jupyter**, **Pandas** a vizualizace
+* 20.4.2021 - **Jupyter** - instalace, principy použití, **Pandas** - načítání dat
+* 27.4.2021 - **Pandas** - příprava dat, filtrování
+* 4.5.2021 - **Pandas** - export, analýza (groupby)
