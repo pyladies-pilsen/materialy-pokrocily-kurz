@@ -1,4 +1,4 @@
-Slovníček gitovských pojmů:
+﻿Slovníček gitovských pojmů:
 ---------------------------
 
 verzovací systém/source control, version control system = systém (program) na správu verzí, 
@@ -21,3 +21,7 @@ naklonování/clone == stažení vzdálené kopie repozitáře
 -/pull == stažení stavu z remote a merge vzdálené větve do lokální
 -/push == nahrání stavu lokálního repozitáře na remote
 -/pull request == žádost majiteli cizího repozitáře, aby si stáhnul změny z našeho repozitáře
+
+nastavení pro proxy server
+git config --global http.proxy http://uzivatelske jmeno:heslo@ip proxy:port
+git config --global http.sslverify false
