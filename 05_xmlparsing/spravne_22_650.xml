@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+<record>
+<leader>-----nam-a22------i-4500</leader>
+  <controlfield tag="001">kpw0226959</controlfield>
+  <controlfield tag="005">20220118161501.8</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">060103s2005----xr af||||||||u0|0|||cze||</controlfield>
+  <datafield tag="015" ind1="#" ind2="#">
+    <subfield code="a">94(4)</subfield>
+    <subfield code="x">Dějiny Evropy</subfield>
+    <subfield code="2">Konspekt</subfield>
+    <subfield code="9">8</subfield>
+  </datafield>
+  <datafield tag="020" ind1="#" ind2="#">
+    <subfield code="a">80-7185-773-4</subfield>
+    <subfield code="q">(vázáno)</subfield>
+  </datafield>
+  <datafield tag="040" ind1="#" ind2="#">
+    <subfield code="a">PNE303</subfield>
+    <subfield code="b">cze</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2="#">
+    <subfield code="a">cze</subfield>
+  </datafield>
+  <datafield tag="044" ind1="#" ind2="#">
+    <subfield code="a">xr</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Lesk královského majestátu ve středověku :</subfield>
+    <subfield code="b">pocta Prof. PhDr. Františku Kavkovi, CSc. k nedožitým 85. narozeninám /</subfield>
+    <subfield code="c">uspořádaly Lenka Bobková a Mlada Holá</subfield>
+  </datafield>
+  <datafield tag="250" ind1="#" ind2="#">
+    <subfield code="a">1. vyd.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="#" ind2="1">
+    <subfield code="a">Praha ;</subfield>
+    <subfield code="a">Litomyšl :</subfield>
+    <subfield code="b">Paseka,</subfield>
+    <subfield code="c">2005</subfield>
+  </datafield>
+  <datafield tag="300" ind1="#" ind2="#">
+    <subfield code="a">378 stran :</subfield>
+    <subfield code="b">ilustrace ;</subfield>
+    <subfield code="c">24 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1="#" ind2="#">
+    <subfield code="a">text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1="#" ind2="#">
+    <subfield code="a">bez média</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1="#" ind2="#">
+    <subfield code="a">svazek</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="7">
+    <subfield code="a">Karel</subfield>
+    <subfield code="b">IV.,</subfield>
+    <subfield code="c">český král a římský císař,</subfield>
+    <subfield code="d">1316-1378</subfield>
+    <subfield code="7">jk01053000</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="7">
+    <subfield code="a">Zikmund,</subfield>
+    <subfield code="c">uherský a český král, římský král a císař,</subfield>
+    <subfield code="d">1368-1437</subfield>
+    <subfield code="7">pag2008446287</subfield>
+  </datafield>
+  <datafield tag="600" ind1="1" ind2="7">
+    <subfield code="a">Jiří z Poděbrad,</subfield>
+    <subfield code="c">český král,</subfield>
+    <subfield code="d">1420-1471</subfield>
+    <subfield code="7">jn20000401258</subfield>
+  </datafield>
+  <datafield tag="648" ind1="#" ind2="7">
+    <subfield code="a">14.-15. století</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="4">
+    <subfield code="a">středověk</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="650" ind1="#" ind2="7">
+    <subfield code="a">dějiny</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">dějiny středověké</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">středověk</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">rituály</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">majestáty královské</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">sloh krásný</subfield>
+  </datafield>
+  <datafield tag="653" ind1="#" ind2="#">
+    <subfield code="a">historická architektura</subfield>
+  </datafield>
+  <datafield tag="655" ind1="#" ind2="7">
+    <subfield code="a">monografie</subfield>
+    <subfield code="7">fd132842</subfield>
+    <subfield code="2">czenas</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="#">
+    <subfield code="a">Bobková, Lenka,</subfield>
+    <subfield code="d">1947-</subfield>
+    <subfield code="7">jn20000710013</subfield>
+    <subfield code="4">edt</subfield>
+    <subfield code="e">Editor</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2="#">
+    <subfield code="a">Holá, Mlada,</subfield>
+    <subfield code="d">1979-</subfield>
+    <subfield code="7">jx20060120005</subfield>
+    <subfield code="4">edt</subfield>
+<!--    <subfield code="e">Editor</subfield>-->  <!-- zakomentováno kvůli demonstraci -->
+  </datafield>
+  <datafield tag="910" ind1="#" ind2="#">
+    <subfield code="a">PNE303</subfield>
+  </datafield>
+  <datafield tag="996" ind1="" ind2="">
+    <subfield code="a">sia</subfield>
+    <subfield code="b">0</subfield>
+  </datafield>
+</record></collection>
