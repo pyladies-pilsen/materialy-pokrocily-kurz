@@ -27,29 +27,33 @@ Níže najdete seznam možných témat a také plánovaných a proběhlých pře
 * paralelní programování
 * a dle zájmu další...
 
-Pro inspiraci připojujeme odkaz na Ostravský kurz pokročilých https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/ a MI-PYT kurz z FIT-ČVUT https://naucse.python.cz/course/mi-pyt/
+Pro inspiraci připojujeme odkaz na Ostravský kurz pokročilých https://naucse.python.cz/2020/pyladies-ostrava-podzim-pokrocili/ a MI-PYT kurz z FIT-ČVUT https://naucse.python.cz/course/mi-pyt/.
 
 
 ## Plánovaná setkání
 
 Setkání budou probíhat online pomocí Zoomu pravidelně v *úterý* od *18:00* do *20:00*
 
-* 11.5.2021 - **OOP**
+Těšíme se na další navazující setkání v roce 2022.
 
-## Proběhlá setkání
+## Proběhlá setkání v prvním experimentálním běhu kurzu jaro 2021
 
 * 26.1.2021 - **Programátorské prostředí**: virtuální prostředí pro Python, typy na IDE, pluginy, editory a podobné vychytávky
-* 2.2.2021 - **Git - základy**: instalce, vytvoření repozitáře, vytváření revizí
+* 2.2.2021 - **Git - základy**: proměnná PATH, instalce, vytvoření repozitáře, vytváření revizí
 * 9.2.2021 - **Git - větvení**: větve, vzdálené repozitář
-* 16.2.2021 - **Databáze**: motivate, SQL
-* 23.2.2021 - **SQLite**
+* 16.2.2021 - **Databáze**: motivace, Structured Query Language (SQL)
+* 23.2.2021 - **SQLite**: 
 * 2.3.2021 - Použití Githubu ke spoluporáci
 * 9.3.2021 - Praktické zpracování dat a využití databáze, jednoduchá vizualizace
 * 16.3.2021 - Bulk insert do **SQLlite**, návrh API, zobrazení geografických dat
 * 23.3.2021 - základy **HTML** a **CSS**
 * 30.3.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
 * 6.4.2021 - **FLASK**, **SQLAlchemy**, **Jinja2**
-* 13.4.2021 - webové formuláře a jejich zpracování Flaskem
-* 20.4.2021 - **Jupyter** - instalace, principy použití, **Pandas** - načítání dat
-* 27.4.2021 - **Pandas** - příprava dat, filtrování
-* 4.5.2021 - **Pandas** - export, analýza (groupby)
+* 13.4.2021 - **Forms**: webové formuláře a jejich zpracování Flaskem
+* 20.4.2021 - **Jupyter**: instalace, principy použití, **Pandas** - načítání dat
+* 27.4.2021 - **Pandas**: příprava dat, filtrování
+* 4.5.2021 - **Pandas**: export, analýza (groupby)
+* 11.5.2021 - **OOP**: Objektově orientované programování a návrh v Pythonu vol. 1.
+* 18.5.2021 - **OOP**: Objektově orientované programování a návrh v Pythonu vol. 2.
+* 25.5.2021 - **IT**: Životní cyklus a vývoj SW, pozice v IT
+
